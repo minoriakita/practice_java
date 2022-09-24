@@ -1,4 +1,4 @@
-package practiceIf;
+package practice.practiceIf;
 
 public class practice6 {
     public static void main(String[] args) throws Exception {
