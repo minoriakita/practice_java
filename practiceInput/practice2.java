@@ -7,7 +7,7 @@ public class practice2 {
         BufferedReader br = new BufferedReader(
                                 new InputStreamReader( System.in ));
         int sum = 0;
-        Car whiteCar = new Car("black", 10);
+        // Car whiteCar = new Car("black", 10);
 
         String tes = "";
         for(int i = 0; i < 10; i++){
