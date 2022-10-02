@@ -11,7 +11,7 @@ public class practice2 {
 
         String tes = "";
         for(int i = 0; i < 10; i++){
-            int value = Integer.parthInt()
+            // int value = Integer.parthInt()
         }
     }
 }
