@@ -17,10 +17,10 @@ public class practice2 {
 }
 
 
-// public class Car {
-//     String color;
-//     Int Gasolin;
-//     init(String color){
-//         self.color = color
-//     }
-// }
+public class Car {
+    String color;
+    Int Gasolin;
+    init(String color){
+        self.color = color
+    }
+}
