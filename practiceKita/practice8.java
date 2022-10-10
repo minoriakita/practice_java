@@ -9,4 +9,3 @@ public class practice8 {
         }
     }
 }
-// 入力
